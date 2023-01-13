@@ -122,7 +122,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['', '!', '.', '🐦', '🐤', '🗿']
 global.sp = '⭔'
 global.mess = {
-   sukses: '🤗Done, Oke Desu~',
+   sukses: '🤗Done',
    admin: 'This Command Can Only Be Used By Admin !',
    botAdmin: 'This command can only be used when the bot becomes admin !',
    owner: 'This command can only be used by the owner
